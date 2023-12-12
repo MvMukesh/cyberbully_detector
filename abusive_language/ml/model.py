@@ -1,6 +1,7 @@
 # Creating model architecture.
 from abusive_language.constants import *
 from abusive_language.entity.config_entity import ModelTrainerConfig
+
 from keras.models import Sequential
 from keras.optimizers import RMSprop
 from keras.callbacks import EarlyStopping, ModelCheckpoint
