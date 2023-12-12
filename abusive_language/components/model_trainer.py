@@ -6,8 +6,8 @@ from sklearn.model_selection import train_test_split
 from keras.utils import pad_sequences
 from keras.preprocessing.text import Tokenizer
 
-from abusive_language.logger import logging
 from abusive_language.constants import *
+from abusive_language.logger import logging
 from abusive_language.exception import CustomException
 from abusive_language.ml.model import ModelArchitecture
 from abusive_language.entity.config_entity import ModelTrainerConfig
