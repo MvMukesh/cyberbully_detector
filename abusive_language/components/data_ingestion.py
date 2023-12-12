@@ -60,7 +60,6 @@ class DataIngestion:
                                                               raw_data_file_path=raw_data_file_path)
 
             logging.info("Exited initiate_data_ingestion method of Data ingestion class")
-
             logging.info(f"Data ingestion artifact: {data_ingestion_artifacts}")
             return data_ingestion_artifacts
         except Exception as e:
