@@ -36,7 +36,6 @@ TRAINED_MODEL_DIR = 'trained_model'
 TRAINED_MODEL_NAME = 'model.h5'
 X_TEST_FILE_NAME = 'x_test.csv'
 Y_TEST_FILE_NAME = 'y_test.csv'
-
 X_TRAIN_FILE_NAME = 'x_train.csv'
 
 RANDOM_STATE = 42
