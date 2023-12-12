@@ -1,11 +1,11 @@
 import sys
 from abusive_language.logger import logging
 from abusive_language.exception import CustomException
-from abusive_language.components.data_ingestion import DataIngestion
-from abusive_language.components.data_transformation import DataTransformation
-from abusive_language.components.model_trainer import ModelTrainer
-from abusive_language.components.model_evaluation import ModelEvaluation
 from abusive_language.components.model_pusher import ModelPusher
+from abusive_language.components.model_trainer import ModelTrainer
+from abusive_language.components.data_ingestion import DataIngestion
+from abusive_language.components.model_evaluation import ModelEvaluation
+from abusive_language.components.data_transformation import DataTransformation
 from abusive_language.entity.config_entity import DataIngestionConfig, DataTransformationConfig, ModelTrainerConfig, ModelEvaluationConfig, ModelPusherConfig
 from abusive_language.entity.artifact_entity import DataIngestionArtifacts, DataTransformationArtifacts, ModelTrainerArtifacts, ModelEvaluationArtifacts, ModelPusherArtifacts
 
