@@ -29,7 +29,6 @@ INPLACE = True
 DROP_COLUMNS = ['Unnamed: 0','count','hate_speech','offensive_language','neither']
 CLASS = 'class'
 
-
 # Model training constants
 MODEL_TRAINER_ARTIFACTS_DIR = 'ModelTrainerArtifacts'
 TRAINED_MODEL_DIR = 'trained_model'
@@ -43,7 +42,6 @@ EPOCH = 2
 BATCH_SIZE = 128
 VALIDATION_SPLIT = 0.2
 
-
 # Model Architecture constants
 MAX_WORDS = 50000
 MAX_LEN = 300
@@ -51,9 +49,9 @@ LOSS = 'binary_crossentropy'
 METRICS = ['accuracy']
 ACTIVATION = 'sigmoid'
 
-
 # Model  Evaluation constants
 MODEL_EVALUATION_ARTIFACTS_DIR = 'ModelEvaluationArtifacts'
 BEST_MODEL_DIR = "best_Model"
 MODEL_EVALUATION_FILE_NAME = 'loss.csv'
 
+                    ### --- Manralai.in --- ###
