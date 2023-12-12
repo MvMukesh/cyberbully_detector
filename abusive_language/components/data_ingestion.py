@@ -4,8 +4,9 @@ from zipfile import ZipFile
 from abusive_language.logger import logging
 from abusive_language.exception import CustomException
 from abusive_language.configuration.gcp_sync import GCloudSync
-from abusive_language.entity.config_entity import DataIngestionConfig
 from abusive_language.entity.artifact_entity import DataIngestionArtifacts
+from abusive_language.entity.config_entity import DataIngestionConfig
+
 
 
 class DataIngestion:
