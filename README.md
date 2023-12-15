@@ -18,5 +18,5 @@ Harnessing the Power of NLP to Cleanse the Social Media Landscape
 
 <h2><u>Data Ingestion Piepline</u></h2>
 <p align="center">
-  <kbd><img src="https://github.com/MvMukesh/Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media/assets/26667491/a45ad982-e0ec-47e0-8409-36c3a51e94b8" width=350 height=200 alt="Intension of analysis.png"></kbd> </p>
+  <kbd><img src="https://github.com/MvMukesh/Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media/assets/26667491/a45ad982-e0ec-47e0-8409-36c3a51e94b8" width=600 height=600 alt="Intension of analysis.png"></kbd> </p>
 
