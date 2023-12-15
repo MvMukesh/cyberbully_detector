@@ -9,7 +9,7 @@ Harnessing the Power of NLP to Cleanse the Social Media Landscape
 4. Upload data in the Bucket (simple drag and drop csv file from local to new bucket)
 
 <p align="center">
-  <kbd><img src="https://github.com/MvMukesh/Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media/assets/26667491/1d01f863-ff3f-4612-b92f-0923b373689b" width=500 height=400 alt="Intension of analysis.png"></kbd>
+  <kbd><img src="https://github.com/MvMukesh/Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media/assets/26667491/1d01f863-ff3f-4612-b92f-0923b373689b" alt="Intension of analysis.png"></kbd>
 </p>
 
 `NOTE:` 
