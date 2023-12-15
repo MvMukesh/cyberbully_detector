@@ -13,3 +13,6 @@ Harnessing the Power of NLP to Cleanse the Social Media Landscape
 `NOTE:` 
 * There are plethora of tutorials on how to setup GCP CLI
 * Don'r forget to add artifacts in git ignore
+
+
+![1](https://github.com/MvMukesh/Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media/assets/26667491/a45ad982-e0ec-47e0-8409-36c3a51e94b8)
