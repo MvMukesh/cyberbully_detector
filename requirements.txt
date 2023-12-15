@@ -3,7 +3,7 @@ pandas
 tensorflow==2.9.2
 matplotlib
 seaborn
-nltk
+#nltk --> use conda install -c conda-forge nltk_data --> if nltk will note work
 regex
 scikit-learn
 from-root
