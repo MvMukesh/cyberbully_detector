@@ -9,7 +9,7 @@ Harnessing the Power of NLP to Cleanse the Social Media Landscape
 4. Upload data in the Bucket (simple drag and drop csv file from local to new bucket)
 
 <p align="center">
-  <kbd><img src="https://github.com/MvMukesh/Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media/assets/26667491/1d01f863-ff3f-4612-b92f-0923b373689b" alt="Intension of analysis.png"></kbd>
+  <kbd><img src="https://github.com/MvMukesh/Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media/assets/26667491/1d01f863-ff3f-4612-b92f-0923b373689b" alt="gcp.png"></kbd>
 </p>
 
 `NOTE:` 
@@ -20,8 +20,8 @@ Harnessing the Power of NLP to Cleanse the Social Media Landscape
 
 <h2><u>Data Ingestion, Data Transformation and Model Training</u></h2>
 <p align="center">
-  <kbd><img src="https://github.com/MvMukesh/Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media/assets/26667491/a45ad982-e0ec-47e0-8409-36c3a51e94b8" width=700 height=700 alt="Intension of analysis.png"></kbd> 
-  <kbd><img src="https://github.com/MvMukesh/Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media/assets/26667491/a89966ca-f1b5-4d65-b553-17cdbdcb265a" width=700 height=700 alt="Intension of analysis.png"></kbd>
-  <kbd><img src="https://github.com/MvMukesh/Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media/assets/26667491/ed9a046e-848d-4233-8af9-62546215ec41" width=700 height=700 alt="Intension of analysis.png"></kbd>
+  <kbd><img src="https://github.com/MvMukesh/Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media/assets/26667491/a45ad982-e0ec-47e0-8409-36c3a51e94b8" width=700 height=700 alt="data ingestion.png"></kbd> 
+  <kbd><img src="https://github.com/MvMukesh/Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media/assets/26667491/a89966ca-f1b5-4d65-b553-17cdbdcb265a" width=700 height=700 alt="data transformation.png"></kbd>
+  <kbd><img src="https://github.com/MvMukesh/Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media/assets/26667491/ed9a046e-848d-4233-8af9-62546215ec41" width=700 height=700 alt="model training.png"></kbd>
 </p>
 
