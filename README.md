@@ -57,3 +57,4 @@ Imagine you're a chef preparing a delicious dish. This data pipeline is like you
   <kbd><img src="https://github.com/MvMukesh/Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media/assets/26667491/ed9a046e-848d-4233-8af9-62546215ec41" width=700 height=700 alt="model training.png"></kbd> 
 </p>
 
+Remaining Pipelines to Add: Model Evaluation and Model Push Back to GCP
