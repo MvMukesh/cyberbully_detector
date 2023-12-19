@@ -26,24 +26,25 @@ Imagine you're a chef preparing a delicious dish. This data pipeline is like you
 
 1. `Gathering Ingredients`:
 
-We have various suppliers (data sources) like text files, databases, or even zipped bags (zip files) full of data.
-We first unpack any zipped bags in the "unzip_and_clean" step to make sure everything is accessible.
-Then, we set up our kitchen workstations (new directories) to keep things organized.
+* We have various suppliers (data sources) like text files, databases, or even zipped bags (zip files) full of data.
+* We first unpack any zipped bags in the "unzip_and_clean" step to make sure everything is accessible.
+* Then, we set up our kitchen workstations (new directories) to keep things organized.
 
 2. `Preparing the Feast`:
 
-This is where the real cooking starts! We clean and chop the ingredients (data preparation). This might involve removing unwanted parts, cutting them into smaller pieces (e.g., words from sentences), or even bringing in special seasoning (pretrained model weights, if needed).
-We follow a specific recipe (data ingestion) that involves tasks like transforming the data into formats our model understands and maybe even cooking with pre-trained flavors (model loading).
+* This is where the real cooking starts! We clean and chop the ingredients (data preparation).
+* This might involve removing unwanted parts, cutting them into smaller pieces (e.g., words from sentences), or even bringing in special seasoning (pretrained model weights, if needed).
+* We follow a specific recipe (data ingestion) that involves tasks like transforming the data into formats our model understands and maybe even cooking with pre-trained flavors (model loading).
 
 3. `Serving Delicious Outcome`:
 
-Finally, the finished dish (processed data)! This could be predictions from our model, like predicting sentiment, or neatly prepared data files ready for further analysis.
-We serve this tasty output to hungry customers (models or analysts) who can use it to make informed decisions or create even more insights.
+* Finally, the finished dish (processed data)! This could be predictions from our model, like predicting sentiment, or neatly prepared data files ready for further analysis.
+* We serve this tasty output to hungry customers (models or analysts) who can use it to make informed decisions or create even more insights.
 
 **`Remember`:**
 
-The order of some steps might be flexible depending on our recipe (implementation).
-Some details might be hidden like specific cleaning techniques or seasoning ingredients, but the overall flow remains the same.
+* The order of some steps might be flexible depending on our recipe (implementation).
+* Some details might be hidden like specific cleaning techniques or seasoning ingredients, but the overall flow remains the same.
 
 
 <h2><u>Data Transformation</u></h2>
