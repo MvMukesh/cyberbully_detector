@@ -31,6 +31,13 @@ Harnessing the Power of NLP to Cleanse the Social Media Landscape
 
 ---
 
+- constants
+- config_entity
+- artifacts_entity
+- components
+- pipeline
+- main.py
+
 <h2><u>Data Ingestion</u></h2>
 <p align="center">
   <kbd><img src="https://github.com/MvMukesh/Utilizing-Natural-Language-Processing-to-Detect-Abusive-Language-on-Social-Media/assets/26667491/a45ad982-e0ec-47e0-8409-36c3a51e94b8" width=700 height=700 alt="data ingestion.png"></kbd> 
